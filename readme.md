@@ -32,7 +32,7 @@ This is a simple URL shortener application built in Go using the Gin web framewo
 3. **Run the application:**
 
     ```bash
-    go run main.go
+    go run main.go database.go redis.go
     ```
 
 4. **Access the application:**
